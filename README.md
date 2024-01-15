@@ -32,7 +32,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 # Usage
 ## Clone the Repository:
-git clone https://github.com/your-username/AIML-Supervised-Learning-project.git
+git clone https://github.com/SameedIrfan7/AIML-Supervised-Learning-project.git
 cd AIML-Supervised-Learning-project
 
 
