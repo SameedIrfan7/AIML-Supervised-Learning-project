@@ -30,7 +30,7 @@ You can install these dependencies using the following:
 pip install numpy pandas matplotlib seaborn scikit-learn
 
 
-# Usage
+## Usage
 ## Clone the Repository:
 git clone https://github.com/SameedIrfan7/AIML-Supervised-Learning-project.git
 cd AIML-Supervised-Learning-project
@@ -45,13 +45,13 @@ Results
 
 The project includes visualizations using Matplotlib and Seaborn to help understand the patterns in the data and the decisions made by the machine learning models.
 
-# Future Work
+## Future Work
 Feature engineering and selection for improved model performance.
 Fine-tuning hyperparameters for each algorithm.
 Exploring additional machine learning algorithms.
 Deployment of the model as a web application.
 
-# Acknowledgments
+## Acknowledgments
 The dataset used in this project is sourced from Kaggle.
 Special thanks to the open-source community for providing valuable resources.
 Feel free to contribute and open issues as you see fit.
