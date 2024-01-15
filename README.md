@@ -38,18 +38,18 @@ cd AIML-Supervised-Learning-project
 
 ## Install Dependencies:
 pip install -r requirements.txt
+
 Run the Jupyter Notebook or Python Script:
-
 jupyter notebook  # or python main_script.py
-Results
 
+## Results
 The project includes visualizations using Matplotlib and Seaborn to help understand the patterns in the data and the decisions made by the machine learning models.
 
 ## Future Work
 Feature engineering and selection for improved model performance.
 Fine-tuning hyperparameters for each algorithm.
 Exploring additional machine learning algorithms.
-Deployment of the model as a web application.
+Deployment of the model as a web application in upcoming days using either Django or Flask.
 
 ## Acknowledgments
 The dataset used in this project is sourced from Kaggle.
